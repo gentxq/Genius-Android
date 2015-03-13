@@ -1,6 +1,6 @@
 ## Version 2.4.0 Guide
 
-[`中文`](Guide_2.4.0_ZH) [`English`](Guide_2.4.0) [`Guides`](GuideCatalog) [`Sample`](https://raw.githubusercontent.com/qiujuer/Genius-Android/resource/simples/genius_2.4.0.apk)
+[`中文`](SteadyGuide_2.4.0_ZH) [`English`](SteadyGuide_2.4.0) [`Guides`](GuideCatalog) [`Sample`](https://raw.githubusercontent.com/qiujuer/Genius-Android/resource/release/simple-steady_2.4.0.apk)
 
 
 ##What is Genius-Android?
@@ -98,7 +98,7 @@ dependencies {
 
 * Version: `2.4.0`
 * Date: `2015-03-02`
-* Log: [`Notes`](NotesSecond)
+* Log: [`Notes`](SteadyNotes_2.X)
 
 
 ## Method of application
@@ -530,7 +530,7 @@ Of course, rich holds a money (AliPay: `qiujuer@live.cn`); No money holds person
 License
 --------
 
-    Copyright 2014 CengaLabs.
+    Copyright 2014-2015 Qiujuer.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

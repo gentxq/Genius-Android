@@ -1,6 +1,6 @@
 ## Version 1.0.0 Guide
 
-[`中文`](Guide_1.0.0_ZH) [`English`](Guide_1.0.0) [`Guides`](GuideCatalog) 
+[`中文`](SteadyGuide_1.0.0_ZH) [`English`](SteadyGuide_1.0.0) [`Guides`](GuideCatalog) 
 
 
 ## Genius-Android是什么?
@@ -95,7 +95,7 @@
 
 * 版本：`1.0.0`
 * 日期：`2014-12-26 00:20`
-* 日志：[`更新日志`](NotesFirst)
+* 日志：[`更新日志`](SteadyNotes_1.X)
 
 
 ## 使用方法
@@ -395,7 +395,7 @@ ToolUtils.getSerialNumber();
 License
 --------
 
-    Copyright 2014 CengaLabs.
+    Copyright 2014-2015 Qiujuer.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

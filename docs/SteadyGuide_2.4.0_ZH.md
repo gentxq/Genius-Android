@@ -1,6 +1,6 @@
 ## Version 2.4.0 Guide
 
-[`中文`](Guide_2.4.0_ZH) [`English`](Guide_2.4.0) [`Guides`](GuideCatalog) [`Sample`](https://raw.githubusercontent.com/qiujuer/Genius-Android/resource/simples/genius_2.4.0.apk)
+[`中文`](SteadyGuide_2.4.0_ZH) [`English`](SteadyGuide_2.4.0) [`Guides`](GuideCatalog) [`Sample`](https://raw.githubusercontent.com/qiujuer/Genius-Android/resource/release/simple-steady_2.4.0.apk)
 
 
 ## Genius-Android是什么?
@@ -98,7 +98,7 @@ dependencies {
 
 * 版本：`2.4.0`
 * 日期：`2015-03-02`
-* 日志：[`更新日志`](NotesSecond)
+* 日志：[`更新日志`](SteadyNotes_2.X)
 
 
 ## 使用方法
@@ -529,7 +529,7 @@ Tools.getSerialNumber();
 License
 --------
 
-    Copyright 2014 CengaLabs.
+    Copyright 2014-2015 Qiujuer.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

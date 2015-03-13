@@ -1,6 +1,6 @@
 ## Version 1.0.0 Guide
 
-[`中文`](Guide_1.0.0_ZH) [`English`](Guide_1.0.0) [`Guides`](GuideCatalog) 
+[`中文`](SteadyGuide_1.0.0_ZH) [`English`](SteadyGuide_1.0.0) [`Guides`](GuideCatalog) 
 
 
 ##What is Genius-Android?
@@ -95,7 +95,7 @@
 
 * Version: `1.0.0`
 * Date: `2014-12-26 00:20`
-* Log: [`Notes`](NotesFirst)
+* Log: [`Notes`](SteadyNotes_1.X)
 
 
 ## Method of application
@@ -398,7 +398,7 @@ Of course, rich holds a money (AliPay: `qiujuer@live.cn`); No money holds person
 License
 --------
 
-    Copyright 2014 CengaLabs.
+    Copyright 2014-2015 Qiujuer.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
